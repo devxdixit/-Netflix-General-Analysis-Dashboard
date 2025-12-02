@@ -21,7 +21,7 @@ This project presents an interactive Netflix Analytics Dashboard built in Tablea
 
 **Records**: 6,234 titles
 
-# Attributes Analyzed:
+**Attributes Analyzed**:
 
 **->** Type (Movie / TV Show)
 

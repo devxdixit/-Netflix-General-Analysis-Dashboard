@@ -17,7 +17,7 @@ This project presents an interactive Netflix Analytics Dashboard built in Tablea
 
 # 🗂 Dataset Information
 
-**Source**: Netflix Titles Dataset
+**Source**: 
 
 **Records**: 6,234 titles
 

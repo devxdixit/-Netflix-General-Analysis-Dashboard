@@ -1,7 +1,7 @@
 # Netflix-General-Analysis-Dashboard
 This project presents an interactive Netflix Analytics Dashboard built in Tableau, aimed at exploring the global distribution of movies and TV shows available on Netflix. It highlights key insights based on country, genre, ratings, and release year, helping users understand the content trends and library composition
 
-🎯 **Objectives**
+# 🎯 Objectives
 
 # The main purpose of this analysis is to understand:
 
@@ -15,13 +15,13 @@ This project presents an interactive Netflix Analytics Dashboard built in Tablea
 
 ✔ Year-wise growth in Netflix content
 
-🗂 **Dataset Information**
+# 🗂 Dataset Information
 
 **Source**: Netflix Titles Dataset
 
 **Records**: 6,234 titles
 
-**Attributes Analyzed**:
+# Attributes Analyzed:
 
 **->** Type (Movie / TV Show)
 
@@ -41,22 +41,22 @@ This project presents an interactive Netflix Analytics Dashboard built in Tablea
 
 **->** Description
 
-📍 Key Dashboard Insights
+# 📍 Key Dashboard Insights
 
-🔹 1️⃣ Movies vs TV Shows
+🔹 1️⃣ **Movies vs TV Shows**
 
 **->** Movies: 4,265 (68.42%)
 
 **->** TV Shows: 1,969 (31.58%)
 👉 Netflix has a significantly higher number of Movies in its library.
 
-🔹 2️⃣ Content by Country
+🔹 2️⃣ **Content by Country**
 
 **->** The United States has the highest content availability on Netflix.
 
 **->** Other major contributors include India, UK, and Canada.
 
-🔹 3️⃣ Top 10 Genres
+🔹 3️⃣**Top 10 Genres**
 
 **->** Most popular:
 

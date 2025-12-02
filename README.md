@@ -42,6 +42,7 @@ This project presents an interactive Netflix Analytics Dashboard built in Tablea
 **->** Description
 
 📍 Key Dashboard Insights
+
 🔹 1️⃣ Movies vs TV Shows
 
 **->** Movies: 4,265 (68.42%)
